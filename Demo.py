@@ -50,7 +50,7 @@
 #     print("B")
 
 
-x = 85
+# x = 85
 
 # if x>50:
 #     print("x is greater than 50")
@@ -373,13 +373,114 @@ x = 85
 
 
 
-movies = ["gajini", "jailer", "F&F", "golmal", "coolie"]
+# movies = ["gajini", "jailer", "F&F", "golmal", "coolie"]
 
 
-for movie in movies:
-    if movie == "gajini":
-        continue
-    print(movie)
+# for movie in movies:
+#     if movie == "gajini":
+#         continue
+#     print(movie)
+
+
+
+
+
+
+
+# print("START")
+
+
+# def greet():
+#     print("Hi all")
+#     print("How are you?")
+#     print("What's the last movie you watched")
+
+# greet()
+
+# print("END")
+
+
+
+
+
+# def add():
+#     a = 25
+#     b = 50
+#     print(a+b)
+
+# a = 100
+
+# add()
+
+# print(a)
+# print(b)
+
+
+
+# def sub(a=5, b=0):
+#     print(a-b)
+
+# result = sub(50,40)
+
+# print(result+15)
+
+
+# def divide(a,b):
+#     return a/b
+
+
+# result = divide(10,2)
+
+# print(result+50)
+
+
+
+
+
+#10+15+15+620+90
+
+
+
+# def add(*nums):
+#     total = 0
+#     for n in nums:
+#         total += n
+
+#     return total
+
+
+# print(add(10,20,40,50,60,70,90,100))
+
+#void 
+#return type
+
+
+#def DoClashDetection():
+#..............
+#.............
+#.............
+
+
+#def DoAndReturnClashes:
+#......
+#.....
+#....
+#return result
+
+
+
+
+
+
+#Class -> Properties, methods(fuctions)
+
+#Object
+
+#Namespaces
+
+
+#OOPs
+
 
 
 
