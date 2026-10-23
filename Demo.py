@@ -482,5 +482,14 @@
 #OOPs
 
 
+class Person:
+    Name = "Santanu"
+    Age = 25
+
+    def Study(self):
+        print("Santanu is studying")
 
 
+p1 = Person()
+
+p1.Study()
